@@ -1,6 +1,4 @@
-;TITLE TICTACTOE Final Project Fall 2020
-;AUTHOR: Edward Charles Baldwin IV
-;DATE: December 8th, 2020
+;TITLE TICTACTOE 
 ;Description: 3 person tic-tac-toe on a 6x6 matrix, PvPvP or CvCvC Modes available
 ;	   Rules: Player with the most 3-in-a-rows on the board wins
 ;			  If a player gets the center 4 tiles of the 6x6 game board, that player automatically wins
